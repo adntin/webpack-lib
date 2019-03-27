@@ -19,5 +19,12 @@
   "homepage": "https://github.com/adntin/webpack-lib#readme",
   "bin": {
     "webpack-lib": "./bin/webpack-lib.js"
+  },
+  "devDependencies": {
+    "@babel/generator": "^7.4.0",
+    "@babel/traverse": "^7.4.0",
+    "@babel/types": "^7.4.0",
+    "babylon": "^6.18.0",
+    "ejs": "^2.6.1"
   }
 }
